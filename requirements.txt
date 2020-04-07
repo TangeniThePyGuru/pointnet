@@ -1,0 +1,6 @@
+pillow
+tensorFlow==1.0.1
+tensorboard==1.9.0
+cuDNN==5.1
+h5py
+open3d
